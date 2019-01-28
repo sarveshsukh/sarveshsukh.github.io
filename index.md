@@ -1,6 +1,6 @@
-## Welcome to my webiste
+## Sarvesh Sukhatme
 
-I am a multi-disciplinary engineer trained in Electronics & Intrumentatio, Biomeedial Engineering and most recently Artificial Intelligence.
+I am a multi-disciplinary engineer trained in Electronics & Intrumentation, Biomeedial Engineering and most recently Artificial Intelligence.
 
 
 
